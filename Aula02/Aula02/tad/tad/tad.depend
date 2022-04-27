@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649464686 source:c:\users\professor\documents\fernandoaulas\ed\aula02\tad\tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

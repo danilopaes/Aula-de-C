@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649457545 source:c:\users\professor\documents\fernandoaulas\ed\aula01\exemplo\funcoes.c
+	"funcoes.h"
+
+1649458793 source:c:\users\professor\documents\fernandoaulas\ed\aula01\exemplo\main.c
+	"funcoes.h"
+
+1649458247 c:\users\professor\documents\fernandoaulas\ed\aula01\exemplo\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
