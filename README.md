@@ -1,2 +1,2 @@
-# Aula-de-C
+# Aula de C
 aulas e projetos realizados em C
