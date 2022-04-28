@@ -82,3 +82,17 @@ void lst_insere_ordenado(LISTA *lst, int valor)
         anterior->proximo = novo;
     }
 }
+
+int lst_vazia(LISTA *lst){
+    return lst->primeiro == NULL;
+}
+void lst_libera_lista(LISTA *lst){
+    LISTAN *atual = lst->primeiro;
+    while (atual != NULL)
+    {
+        LISTAN *aux = atual->proximo;
+        free(atual);
+        atual = aux;
+    }
+    free(lst);
+}
