@@ -1,21 +1,18 @@
-#include <stdlib.h>
 #include <stdio.h>
-#include <math.h>
-#include "lib_lista_encadeada.h"
+#include <stdlib.h>
+#include "../lib_lista_encadeada/lib_lista_encadeada.h"
 
-struct lista {
-    LISTAN * primeiro;
-};
+int main()
+{
+    LISTA *lst;
 
-struct listaN {
-    int valor;
-    LISTAN *proximo;
-};
+    lst = lst_cria();
 
-LISTA *lst_cria(void){
-    /*criação da lista encadeada*/
-    LISTA *l = (LISTA*) malloc(sizeof(LISTA));
-    l->primeiro = NULL;
-    return l;
+    lst_insere(lstN, 10);
+    lst_insere(lstN, 25);
+    lst_insere(lstN, 99);
+
+    lst_imprimi(lstN);
+
+    return 0;
 }
-
