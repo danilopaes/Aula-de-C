@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650498580 source:c:\users\professor\documents\fernandoaulas\ed\aula04\lib_vetor_din\main.c
+	"lib_vetor_din.h"
+
+1650498580 c:\users\professor\documents\fernandoaulas\ed\aula04\lib_vetor_din\lib_vetor_din.h
+	<stdlib.h>
+	<stdio.h>
+

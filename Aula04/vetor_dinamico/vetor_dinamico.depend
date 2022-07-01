@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650499882 source:c:\users\professor\documents\fernandoaulas\ed\aula04\vetor_dinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib_vetor_din/lib_vetor_din.h"
+
+1650498580 c:\users\professor\documents\fernandoaulas\ed\aula04\lib_vetor_din\lib_vetor_din.h
+	<stdlib.h>
+	<stdio.h>
+
