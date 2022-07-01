@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652308070 source:c:\users\professor\documents\fernandoaulas\ed\aula07\concatena\lib_texto.c
+	"lib_texto.h"
+
+1652306393 c:\users\professor\documents\fernandoaulas\ed\aula07\concatena\lib_texto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652308103 source:c:\users\professor\documents\fernandoaulas\ed\aula07\concatena\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib_texto.h"
+

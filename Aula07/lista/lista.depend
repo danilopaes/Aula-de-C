@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651708762 source:e:\fernando\onedrive - instituto federal de santa catarina\2022_01\est_dados\listas\aula07\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib_lista_encadeada/lib_lista_encadadeada.h"
+
+1651708798 e:\fernando\onedrive - instituto federal de santa catarina\2022_01\est_dados\listas\aula07\lib_lista_encadeada\lib_lista_encadadeada.h
+	<stdlib.h>
+	<stdio.h>
+

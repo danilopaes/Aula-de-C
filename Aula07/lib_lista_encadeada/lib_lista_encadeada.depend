@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651107697 source:c:\users\professor\documents\fernandoaulas\ed\aula05\lib_lista_encadeada\main.c
+	"lib_lista_encadadeada.h"
+
+1651107438 c:\users\professor\documents\fernandoaulas\ed\aula05\lib_lista_encadeada\lib_lista_encadadeada.h
+	<stdlib.h>
+
+1651704102 source:c:\users\ferna\downloads\aula05\lib_lista_encadeada\main.c
+	"lib_lista_encadadeada.h"
+
+1651704658 c:\users\ferna\downloads\aula05\lib_lista_encadeada\lib_lista_encadadeada.h
+	<stdlib.h>
+	<stdio.h>
+
+1651711140 source:e:\fernando\onedrive - instituto federal de santa catarina\2022_01\est_dados\listas\aula07\lib_lista_encadeada\main.c
+	"lib_lista_encadadeada.h"
+
+1651711140 e:\fernando\onedrive - instituto federal de santa catarina\2022_01\est_dados\listas\aula07\lib_lista_encadeada\lib_lista_encadadeada.h
+	<stdlib.h>
+	<stdio.h>
+

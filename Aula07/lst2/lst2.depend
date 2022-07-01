@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652317037 source:c:\users\professor\documents\fernandoaulas\ed\aula07\lst2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib_lista_dupla/lib_lista_dupla.h"
+
+1652317037 c:\users\professor\documents\fernandoaulas\ed\aula07\lib_lista_dupla\lib_lista_dupla.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
