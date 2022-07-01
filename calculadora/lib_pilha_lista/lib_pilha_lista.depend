@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654736590 source:c:\users\professor\documents\fernandoaulas\ed\aula12\lib_pilha_lista\main.c
+	"lib_pilha_lista.h"
+
+1654736608 c:\users\professor\documents\fernandoaulas\ed\aula12\lib_pilha_lista\lib_pilha_lista.h
+	<stdlib.h>
+	<stdio.h>
+
