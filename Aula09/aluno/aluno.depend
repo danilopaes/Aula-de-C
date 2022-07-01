@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652913521 source:c:\users\professor\documents\fernando\aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib_aluno/lib_aluno.h"
+
+1652911982 c:\users\professor\documents\fernando\lib_aluno\lib_aluno.h
+
