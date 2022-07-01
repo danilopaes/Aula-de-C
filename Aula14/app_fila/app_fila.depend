@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655334605 source:c:\users\professor\documents\fernandoaulas\ed\aula13\app_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib_fila/lib_fila.h"
+
+1655333827 c:\users\professor\documents\fernandoaulas\ed\aula13\lib_fila\lib_fila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
